@@ -22,7 +22,7 @@
 
 把 `px.cmd` 放到`PATH`环境变量能找到的地方【如果不懂这句话那么直接把文件复制到`C:\Windows\System32`中】
 
-**linux 用户**
+**linux & mac 用户**
 
 先给文件加上执行权限 `chmod +x ./px`,把 `px` 放到`PATH`环境变量能找到的地方【如果不懂这句话那么直接把文件复制到`/usr/local/bin`中】
 
